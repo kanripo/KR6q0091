@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:36.071471
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:03
 #+TITLE: 禪源諸詮集都序
 #+PROPERTY: CBETA_ID T48n2015
 #+PROPERTY: ID KR6q0091
@@ -12,7 +12,7 @@
 ¶
 No.2015¶
 
-重刻禪源詮序
+* 重刻禪源詮序
 :PROPERTIES:
 :head: 重刻禪源詮序
 :END:
@@ -42,7 +42,7 @@ No.2015¶
 ¶
 ¶
 
-重刻禪源詮序
+* 重刻禪源詮序
 :PROPERTIES:
 :head: 重刻禪源詮序
 :END:
@@ -85,7 +85,7 @@ No.2015¶
 ¶
 ¶
 
-重刻禪源詮序
+* 重刻禪源詮序
 :PROPERTIES:
 :head: 重刻禪源詮序
 :END:
@@ -125,7 +125,7 @@ No.2015¶
 ¶
 ¶
 
-禪源諸詮集都序敘
+* 禪源諸詮集都序敘
 :PROPERTIES:
 :head: 禪源諸詮集都序敘
 :END:
